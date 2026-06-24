@@ -1,16 +1,17 @@
 # Spotify-ui-clone
-A responsive Spotify UI Clone built using HTML and CSS featuring hover effects,sidebar navigation,playlist layout.
+**A responsive Spotify UI Clone built using HTML and CSS featuring hover effects,sidebar navigation,playlist layout.**
 
-#Features
+##Features
 Fully responsive design
 hover effects on cards and buttons
 sidebar navigation menu
 
-#Technologies Used
+##Technologies Used
 HTML5
 CSS3
 
-#Purpose
+##Purpose
 This project was created for learning frontend development and improving design skills
-#Screenshot
-screenshot.png
+
+##Preview
+![Project Screenshot](screenshot.png)
